@@ -15,4 +15,8 @@ public class App {
     public static float somar(float a, float b){
         return a + b;
     }
+
+    public static float subtrair(float a, float b){
+        return a - b;
+    }
 }
